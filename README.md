@@ -170,10 +170,6 @@ We welcome contributions to the ISS-LLM-Model project. Here are a few ways you c
 2. Report any bugs or issues.
 3. Suggest features or improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - OpenAI for GPT-4 API.
